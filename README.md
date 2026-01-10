@@ -15,3 +15,4 @@ i wanted a keyboard that is completely custom to me and is also something that i
 <img width="1377" height="477" alt="PCB" src="https://github.com/user-attachments/assets/42512c99-8a3f-4875-a961-2dcb9505d3ea" />
 <img width="1047" height="396" alt="3D-render-PCB" src="https://github.com/user-attachments/assets/3dc48cfd-6351-4f10-b943-323716283e08" />
 <img width="1143" height="639" alt="Schematic" src="https://github.com/user-attachments/assets/5be2c800-bf23-49a9-b5bb-8a6c7a7dcbbb" />
+<img width="1575" height="532" alt="Screenshot 2026-01-09 185455" src="https://github.com/user-attachments/assets/3a556fa1-894c-4894-8b8d-44c47bfc57cd" />
