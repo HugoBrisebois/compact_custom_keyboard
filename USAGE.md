@@ -1,4 +1,4 @@
-# Compact Keyboard1 - User Guide
+# Compact Keyboard - User Guide
 
 
 this is your user manual in which you will learn how to make your keyboard a keyboard and learn it's ins and outs.
@@ -19,4 +19,4 @@ in order for your keyboard to be a keyboard you will need to flash it so:
 
 # functions of this keyboard 
 
-this keyboard is a 60% layout with 62 keys to accommodate the to space bars
+this keyboard is a 60% layout with 62 keys to accommodate the to spacebars as well as has a second layer to the keyboard to accomidate for the function keys as well as the let you control the underglow.
