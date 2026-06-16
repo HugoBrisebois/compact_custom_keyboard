@@ -62,10 +62,12 @@ S62,1,fn,,,,PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u,~
 S74,1,window,,,,PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_Choc_V1V2_1.00u,~,,,0.35,unit price
 U1,1,Raspberry_Pi_Pico,,,,ScottoKeebs_MCU:Raspberry_Pi_Pico,,,$3.80 ,https://www.aliexpress.com/item/1005008379427391.html?spm=a2g0o.productlist.0.0.19694680NVdOID&mp=1&pdp_npi=6%40dis%21USD%21USD%203.80%21USD%203.80%21%21USD%203.80%21%21%21%4021030a6217694704877702707e4b9f%2112000044783544290%21ct%21CA%216967380896%21%211%210%21,
 ,,,,,,,,,,,
-PCB Total Cost,,,,,,,,,$30.25 ,,
+PCB Total Cost + shipping,,,,,,,,,$30.25 , shipping option, DDP
 ,,,,,,,,,,,
 Total Keyswitches,,,62,,,,,,$27.52 ,https://www.aliexpress.us/item/3256808620484354.html?spm=a2g0o.productlist.main.17.7728wYEdwYEdYQ&algo_pvid=00c12c19-beca-4bf8-9d21-53f2122b1366&algo_exp_id=00c12c19-beca-4bf8-9d21-53f2122b1366-16&pdp_ext_f=%7B%22order%22%3A%22201%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%2131.94%2124.94%21%21%21222.56%21173.78%21%402101eecd17670558908592838e9ff8%2112000046742202221%21sea%21US%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A423d5f1b%3Bm03_new_user%3A-29895%3BpisId%3A5000000187461913&curPageLogUid=S7K5j9DP5AhE&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008806799106%7C_p_origin_prod%3A,
 ,,,,,,,,,(First Purchase discount),,
 Total Hotswap sockets,,,62,,,,,,$8.32 ,https://www.aliexpress.com/item/1005009312876316.html?spm=a2g0o.productlist.main.23.60264e2avlbvHs&algo_pvid=c3a6f23b-93ee-41e9-bea1-b97caf570a1e&algo_exp_id=c3a6f23b-93ee-41e9-bea1-b97caf570a1e-20&pdp_ext_f=%7B%22order%22%3A%2210%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21USD%214.37%211.14%21%21%214.37%211.14%21%402101eecd17670650022056017e9fd3%2112000048712098102%21sea%21CA%216967380896%21ABX%211%210%21n_tag%3A-29910%3Bd%3Ad6f22de0%3Bm03_new_user%3A-29895%3BpisId%3A5000000187474242&curPageLogUid=QmGdVVpTZLfK&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009312876316%7C_p_origin_prod%3A,
 ,,,,,,,,,,,
 ,,,,,Total Cost,,,,$73.04 ,,
+
+
