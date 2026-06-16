@@ -1,0 +1,12 @@
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-F_Cu.gbr'.
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-B_Cu.gbr'.
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-F_Paste.gbr'.
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-B_Paste.gbr'.
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-F_Mask.gbr'.
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-B_Mask.gbr'.
+Plotted to 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\iCan Student\OneDrive\Bureau\projects\kicad\compact_custom_keyboard\GBR\keyboardepi pico-job.gbrjob'.
+Info: Done.
+Info: Done.
